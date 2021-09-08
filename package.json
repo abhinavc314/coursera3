@@ -14,11 +14,11 @@
   },
   "author": "Abhinav Chaurasiya",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/abhinavc314/coursera3/issues"
-  },
   "homepage": "https://github.com/abhinavc314/coursera3#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
 }
+
+
+
